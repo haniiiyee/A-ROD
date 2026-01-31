@@ -1,0 +1,12 @@
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Logs & Data
+/logs/
+/data/
+
+# Environments (if you use them)
+.venv/
+env/
